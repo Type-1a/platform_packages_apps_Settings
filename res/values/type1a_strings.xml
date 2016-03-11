@@ -15,8 +15,12 @@
       limitations under the License.
  -->
  <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
- 
+
      <!-- Type-1a -->
      <string name="type1a_settings_title">Type-1a</string>
+    
+     <!-- Recents -->
+     <string name="recents_title">Recents</string>
+     <string name="recents_category">Recents</string>
  
  </resources>
