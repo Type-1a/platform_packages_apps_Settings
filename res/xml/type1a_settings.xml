@@ -19,5 +19,14 @@
      xmlns:android="http://schemas.android.com/apk/res/android"
      android:title="@string/type1a_settings_title"
      xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+
+    <!-- Recents -->
+        <PreferenceScreen
+            android:id="@+id/recents_settings"
+            android:title="@string/recents_title"
+            android:fragment="com.android.settings.type1a.Recents"
+            android:icon="@drawable/empty_icon"
+            />
  
  </PreferenceScreen>
+
