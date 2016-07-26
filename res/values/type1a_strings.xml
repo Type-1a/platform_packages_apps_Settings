@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--
+      Copyright (C) 2016 Type-1a
+ 
+      Licensed under the Apache License, Version 2.0 (the "License");
+      you may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
+ 
+           http://www.apache.org/licenses/LICENSE-2.0
+ 
+      Unless required by applicable law or agreed to in writing, software
+      distributed under the License is distributed on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+      See the License for the specific language governing permissions and
+      limitations under the License.
+ -->
+ <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+     <!-- Type-1a -->
+     <string name="type1a_settings_title">Type-1a</string>
+    
+     <!-- Recents -->
+     <string name="recents_title">Recents</string>
+     <string name="recents_category">Recents</string>
+
+    <!-- OmniSwitch -->
+     <string name="omniswitch_category">OmniSwitch</string>
+     <string name="recents_use_omniswitch_title">OmniSwitch</string>
+     <string name="recents_use_omniswitch_summary">Use OmniSwitch instead of default recents view</string>
+     <string name="omniswitch_start_settings_title">Settings</string>
+     <string name="omniswitch_start_settings_summary">Open OmniSwitch settings</string>
+     <string name="omniswitch_first_time_title">Information</string>
+     <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
+     <string name="omniswitch_settings_title">OmniSwitch</string>
+ 
+ </resources>

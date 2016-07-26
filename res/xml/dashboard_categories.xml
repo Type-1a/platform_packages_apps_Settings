@@ -72,6 +72,22 @@
 
     </dashboard-category>
 
+    <!-- Type-1a -->
+    <dashboard-category
+            android:id="@+id/type1a_settings"
+            android:key="@string/type1a_settings_title"
+            android:title="@string/type1a_settings_title" >
+        
+        <!-- Recents -->
+        <dashboard-tile
+                android:id="@+id/recents_settings"
+                android:title="@string/recents_title"
+                android:fragment="com.android.settings.type1a.Recents"
+                android:icon="@drawable/ic_settings_more"
+                />    
+    
+    </dashboard-category>
+
     <!-- DEVICE -->
     <dashboard-category
             android:id="@+id/device_section"
